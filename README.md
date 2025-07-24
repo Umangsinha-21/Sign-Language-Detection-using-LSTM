@@ -3,6 +3,9 @@
 A deep learning project that recognizes sign language gestures from video input using LSTM neural networks and MediaPipe hand tracking.
 
 ---
+<img width="637" height="502" alt="Image" src="https://github.com/user-attachments/assets/04c0ad74-9f06-41e8-91e5-2e02c97f908e" />
+<img width="637" height="500" alt="Image" src="https://github.com/user-attachments/assets/62acaee2-b7e1-44ac-a72d-1cc07c48fddc" />
+---
 
 ## 🧠 Overview
 
